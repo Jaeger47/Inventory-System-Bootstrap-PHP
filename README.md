@@ -36,5 +36,8 @@ You can upload and download pdf files.
 ## [History]
 This is a project from the company(ITSI) where I undergo 
 On-the-job training(OGT) when I was on college.
+
+## [Screenshots]
+![alt text](https://raw.githubusercontent.com/Jaeger47/Inventory-System-Bootstrap-PHP/main/screenshots/itsi_1.png "1")
  
  
