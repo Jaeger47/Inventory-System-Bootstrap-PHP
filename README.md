@@ -39,5 +39,8 @@ On-the-job training(OGT) when I was on college.
 
 ## [Screenshots]
 ![alt text](https://raw.githubusercontent.com/Jaeger47/Inventory-System-Bootstrap-PHP/main/screenshots/itsi_1.png "1")
+![alt text](https://raw.githubusercontent.com/Jaeger47/Inventory-System-Bootstrap-PHP/main/screenshots/itsi_2.png "2")
+![alt text](https://raw.githubusercontent.com/Jaeger47/Inventory-System-Bootstrap-PHP/main/screenshots/itsi_3.png "3")
+![alt text](https://raw.githubusercontent.com/Jaeger47/Inventory-System-Bootstrap-PHP/main/screenshots/itsi_4.png "4")
  
  
